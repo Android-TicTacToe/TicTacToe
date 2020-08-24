@@ -4,7 +4,7 @@ Android-TicTacToe is a tic-tac-toe game that was built using Android Studio with
 
 ## Demo
 
-![Game Demo](http://g.recordit.co/CBSwGfrH63.gif)
+![Game Demo](https://media.giphy.com/media/jpKpsHKmqqXiZPlvn4/giphy.gif)
 
 ## Installation
 
